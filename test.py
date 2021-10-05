@@ -1,15 +1,13 @@
 #%%
 from tvDatafeed import TvDatafeed,Interval
-import requests
+
 import telegram
 import os
 import datetime
 import logging
 import pandas as pd
 import numpy as np
-import math as ma
-import matplotlib.pyplot as plt
-import mplfinance as mpf
+
 logging.basicConfig(level=logging.DEBUG)
 bull_out=pd.DataFrame()
 bear_out=pd.DataFrame()
