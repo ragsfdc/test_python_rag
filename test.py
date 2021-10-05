@@ -1,6 +1,5 @@
 #%%
 from tvDatafeed import TvDatafeed,Interval
-
 import telegram
 import os
 import datetime
