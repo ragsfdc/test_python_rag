@@ -4,3 +4,4 @@ tvdatafeed==1.0.4
 chromedriver-autoinstaller==0.2.2
 telegram==0.0.1
 python-telegram-bot==13.7
+selenium==3.141.0
