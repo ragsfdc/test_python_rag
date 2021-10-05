@@ -6,3 +6,4 @@ telegram==0.0.1
 python-telegram-bot==13.7
 selenium==3.141.0
 websocket-client==0.57.0
+requests==2.22.0
